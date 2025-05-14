@@ -1,0 +1,153 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Crafty+Girls&family=Gowun+Batang:wght@400;700&family=Sacramento&family=Tagesschrift&display=swap');
+
+
+
+body {
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+
+}
+
+h1 {
+    font-family: "Ribeye", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+/* seletor */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightyellow;
+    margin: 80px;
+    padding: 80px;
+}
+
+h1 {
+    color: rgb(184, 0, 138);
+    text-align: center;
+    font-size: 50px;
+}
+
+.linha1 {
+    color: rgb(168, 0, 219);
+    text-align: center;
+    font-size: 30px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Classe */
+.destaque {
+    color: salmon;
+    font-size: 18px;
+    border: 2px solid brown;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    background-color: rgb(168, 76, 76);
+}
+
+/* ID */
+#especial {
+    background-color: lightsalmon;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid brown;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+#linha {
+    color: rgb(28, 123, 248);
+    text-align: center;
+
+}
+
+.classe3 {
+    font-size: 25px;
+   font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.estrela {
+    font-size: 30px;
+
+}
+
+.estilo {
+    color: rgb(57, 0, 189);
+    font-size: 30px;
+}
+
+.titulo {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.classe2 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.cabecalho {
+    background-color: #d185af;
+    border-bottom: 3px solid #5845ff;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.cabecalho p {
+    margin: 8px 0;
+    font-size: 16px;
+}
+.cabecalho {
+    background-color: #d185af;
+    border-bottom: 3px solid #5845ff;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.cabecalho p {
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+main {
+    padding: 30px 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.linha1 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.classe3 {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
